@@ -43322,7 +43322,10 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-text-1 {
-    margin-right: 236px;
+    width: auto;
+    margin-top: 29px;
+    margin-right: auto;
+    margin-bottom: 4px;
   }
 }
  .u-footer {
